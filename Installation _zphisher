@@ -8,7 +8,7 @@ Then give what page u wantThen give local host
 If for local expose give 03
 Then for all give no
 For link creation give yes and put the ngrok link
-Then use the ngrok link to open the templet in the browser
+Then use the ngrok link to open the template in the browser
 Then installed ngrok in the kali linux
 We can use any port for configuration in ngrok
 https://download.ngrok.com/linux?tab=install - to install the ngrok step wise
